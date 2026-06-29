@@ -25,9 +25,9 @@ These are my **active targets**, not interests:
 
 ---
 
- Main  Project (Core Target): 
+## Main  Project (Core Target): 
 
-VISTA (Visual Intelligence System for Task Assessment) / MP-OS (Machine Performance Operating System) is an AI-driven platform designed to intelligently monitor and optimize wireless EV charging. Rather than treating robot monitoring and wireless charging as separate systems, the project unifies them into a single architecture where computer vision, robotics, machine learning, and wireless power transfer work together. The ultimate goal is to create a system that can observe motion, understand conditions, detect faults, and make intelligent decisions to maximize charging efficiency.
+**VISTA (Visual Intelligence System for Task Assessment) / MP-OS (Machine Performance Operating System)** is an AI-driven platform designed to intelligently monitor and optimize wireless EV charging. Rather than treating robot monitoring and wireless charging as separate systems, the project unifies them into a single architecture where computer vision, robotics, machine learning, and wireless power transfer work together. The ultimate goal is to create a system that can observe motion, understand conditions, detect faults, and make intelligent decisions to maximize charging efficiency.
 
 With this project, I'm expecting "A research-grade engineering blueprint with validation, reproducibility, packaging, CI/CD, benchmarking, and publication readiness built in."
 
