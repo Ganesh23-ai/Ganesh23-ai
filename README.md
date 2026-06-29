@@ -10,7 +10,7 @@ I am an **ECE + AI/ML focused engineer** building strong fundamentals in
 **Data Structures, Machine Learning, Deep Learning, and Intelligent Embedded Systems**,  
 with the goal of securing **top-tier internships and a high-impact placement role** in **AI, ML, or Intelligent Systems**.
 
-My work is driven by clear roadmaps, measurable targets, and real-world problem-solving.
+My work is driven by clear personal roadmaps, measurable targets, and real-world problem-solving.
 
 ---
 
@@ -25,21 +25,10 @@ These are my **active targets**, not interests:
 
 ---
 
-## 🧠 6-Month Major Project (Core Target)
-### 🔥 AI-Powered Energy-Efficient Smart Traffic System for Autonomous EVs
+ Main  Project (Core Target): 
+VISTA (Visual Intelligence System for Task Assessment) / MP-OS (Machine Performance Operating System) is an AI-driven platform designed to intelligently monitor and optimize wireless EV charging. Rather than treating robot monitoring and wireless charging as separate systems, the project unifies them into a single architecture where computer vision, robotics, machine learning, and wireless power transfer work together. The ultimate goal is to create a system that can observe motion, understand conditions, detect faults, and make intelligent decisions to maximize charging efficiency.
 
-**Goal:**  
-Design an **AI-driven traffic optimization system** that improves **energy efficiency, traffic flow, and decision-making** for **autonomous electric vehicles**.
-
-**Key Components:**
-- 🚦 AI-based traffic signal optimization
-- 🔋 Energy-efficient route planning for EVs
-- 📡 Integration of AI with real-time traffic data
-- 🧠 ML/DL models for congestion prediction
-- 📊 Simulation + performance analysis
-- 📄 Research-oriented documentation
-
-⏱️ **Daily commitment:** 2–3 hours (development + learning + research)
+With this project, I'm expecting "A research-grade engineering blueprint with validation, reproducibility, packaging, CI/CD, benchmarking, and publication readiness built in."
 
 ---
 
