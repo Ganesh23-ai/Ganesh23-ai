@@ -30,7 +30,7 @@
 
 
 My Hobbies are : 
-Dancing 
-Calisthenics
-Learning new technology 
+- Dancing
+- Calisthenics
+- Learning new technology
 
