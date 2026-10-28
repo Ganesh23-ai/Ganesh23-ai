@@ -23,7 +23,7 @@
 
 📫 **Let’s Connect**
 - GitHub: https://github.com/Ganesh23-ai
-- LinkedIn: https://www.linkedin.com/in/ganesh-chalasani-b1b92238b
+- LinkedIn: [https://www.linkedin.com/in/ganesh-chalasani-b1b92238b](https://www.linkedin.com/in/chalasani-ganesh-b1b92238b/)
 - LeetCode: https://leetcode.com/u/ByJsBURJ6T/
 - Gmail: chalasaniganesh23@gmail.com
 
